@@ -1,4 +1,1 @@
-cor principal -
-cor suave - Azul Gelo (#E0F7FA)
-cor detalhes - 
-cor extra - 
+paleta- #eb342c - #040404 - #5d0f0e - #9c2a28 - #343434
